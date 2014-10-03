@@ -2,38 +2,46 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   
+  <url>
+    <loc>http://blogantelops.github.io/blog/2014/10/03/what-is-docker/</loc>
+    
+    <lastmod>2014-10-03T12:10:43+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
   
   <url>
     <loc>http://blogantelops.github.io/blog/</loc>
-    <lastmod>2014-10-03T12:06:38+02:00</lastmod>
+    <lastmod>2014-10-03T12:57:42+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://blogantelops.github.io/archives/</loc>
-    <lastmod>2014-10-03T12:06:38+02:00</lastmod>
+    <lastmod>2014-10-03T12:57:42+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://blogantelops.github.io/</loc>
-    <lastmod>2014-10-03T12:06:38+02:00</lastmod>
+    <lastmod>2014-10-03T12:57:42+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://blogantelops.github.io/blog/archives/</loc>
-    <lastmod>2014-10-03T12:06:38+02:00</lastmod>
+    <lastmod>2014-10-03T12:57:42+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://blogantelops.github.io/about/</loc>
-    <lastmod>2014-10-03T12:06:38+02:00</lastmod>
+    <lastmod>2014-10-03T12:57:42+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
