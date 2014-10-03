@@ -15,6 +15,7 @@
 {% else %}
 	<h2 class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
 	<div class="entry-content">{{ content }}</div>
+
 {% endif %}
 
 <div class="meta">
@@ -24,3 +25,4 @@
 		<span class="comments"><a href="{{ root_url }}{{ post.url }}{{ page.url }}#disqus_thread">Comments</a></span>
 	{% endif %}
 </div>
+ 
