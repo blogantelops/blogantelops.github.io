@@ -1,28 +1,41 @@
-{% if index %}
-	<h2 class="title">
-		{% if post.external-url %}
-		<a href="{{ post.external-url }}">
-		{% else %}
-		<a href="{{ root_url }}{{ post.url }}">
-		{% endif %}
-			{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
-	</h2>
-	<div class="entry-content">
-		{{ content | excerpt }}
-		{% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
-		{% if excerpted == 'true' %}<a href="{{ root_url }}{{ post.url }}" class="more-link">{{ site.excerpt_link }}</a>{% endif %}
-	</div>
+  {% if index %}
+  <h1 class="title pure-u-1">
+    {% if post.external-url %}
+    <a href="{{ post.external-url }}">
+    {% else %}
+    <a href="{{ root_url }}{{ post.url }}">
+    {% endif %}
+      {% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
+  </h1>
+
+  <div class="meta pure-u-1-5">
+    <div class="date icon-calendar">{% include post/date.html %}{{ date | date: "%e %b, %Y" }}</div>
+    <div class="tags icon-tag-2">{% include post/categories.html %}</div>
+  </div>
+
+  <div class="entry-content pure-u-4-5">
+    <div class="content">
+      {{ content | excerpt }}
+      {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
+      {% if excerpted == 'true' %}
+        <div class="show-more pure-u-1">
+          <a href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
+        </div>
+      {% endif %}
+    </div>
+  </div>
 {% else %}
-	<h2 class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
-	<div class="entry-content">{{ content }}</div>
+  <h1 class="title pure-u-1">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h2>
 
+  <div class="meta pure-u-1-5">
+    <div class="date icon-calendar">{% include post/date.html %}{{ date | date: "%e %b, %Y" }}</div>
+    <div class="tags icon-tag-2">{% include post/categories.html %}</div>
+  </div>
+
+  <div class="entry-content pure-u-4-5">
+    <div class="content">
+      {{ content }}
+      {% include post/sharing.html %}
+    </div>
+  </div>
 {% endif %}
-
-<div class="meta">
-	<div class="date">{% include post/date.html %}{{ date }}</div>
-	{% include post/categories.html %}
-	{% if site.disqus_short_name and site.disqus_show_comment_count == true %}
-		<span class="comments"><a href="{{ root_url }}{{ post.url }}{{ page.url }}#disqus_thread">Comments</a></span>
-	{% endif %}
-</div>
- 

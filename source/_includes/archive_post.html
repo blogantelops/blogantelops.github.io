@@ -7,11 +7,11 @@
 	{% endunless %}
 	<section class="archives"><h1 class="year">{{ date | date: "%Y" }}</h1>
 {% endunless %}
-<article>
-	<h2 class="title"><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h2>
+<article class="archives pure-u-1">
+	<h1 class="sub-title"><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h1>
 	<div class="meta">
-		<div class="date">{{ date | date: "%b %e" }}</div>
-		{% include post/categories.html %}
+		Fecha de Publicación: <span class="date">{{ date | date: "%e %b" }}</span>
+		Tags: <span class="tags">{% include post/categories.html %}</span>
 	    {% if site.disqus_short_name and post.comments == true and site.disqus_show_comment_count == true %}
 	    <span class="comments"><a href="{{ root_url }}{{ post.url }}#disqus_thread">Comments</a></span>
 	    {% endif %}

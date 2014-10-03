@@ -1,15 +1,46 @@
-<div class="share">
-	<div class="addthis_toolbox addthis_default_style ">
-	{% if site.facebook_like %}
-	<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
-	{% endif %}
-	{% if site.twitter_tweet_button %}
-	<a class="addthis_button_tweet"></a>
-	{% endif %}
+
+<div class="post " style="height:40px" >
+
+
 	{% if site.google_plus_one %}
-	<a class="addthis_button_google_plusone" g:plusone:size="{{ site.google_plus_one_size }}"></a>
+	<div class="g-plusone" style="
+
+
+	vertical-align: baseline;
+
+	background: transparent;" data-size="{{ site.google_plus_one_size }}"></div>
 	{% endif %}
-<!---	<a class="addthis_counter addthis_pill_style"></a> --->
-	</div>
-  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid={{ site.addthis_profile_id }}"></script>
+
+
+
+
+
+
+</div>
+
+
+<div class="post" style="height:40px">
+	{% if site.facebook_like %}
+	<div class="fb-like" style="text-indent: 0px;
+	padding: 0px;
+	border-style: none;
+	float: none;
+	line-height: normal;
+	font-size: 1px;
+	vertical-align: baseline;
+	display: inline-block;
+	width: 90px;
+	height: 20px;
+	background: transparent;
+	top:15px" data-send="true" data-layout="button_count" data-show-faces="false" data-height="20"></div>
+	{% endif %}
+</div>
+
+<div class="post" style="height:20px;margin-top:0px" >
+
+
+	{% if site.twitter_tweet_button %}
+
+	<a href="http://twitter.com/share"  class="twitter-share-button"  data-url="{{ site.url }}{{ page.url }}" data-via="{{ site.twitter_user }}" data-counturl="{{ site.url }}{{ page.url }}" style="width: 109px; height: 20px;margin-bottom: 0px;">Tweet</a>
+	{% endif %}
 </div>
