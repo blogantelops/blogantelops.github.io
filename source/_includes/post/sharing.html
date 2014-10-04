@@ -44,3 +44,12 @@
 	<a href="http://twitter.com/share"  class="twitter-share-button"  data-url="{{ site.url }}{{ page.url }}" data-via="{{ site.twitter_user }}" data-counturl="{{ site.url }}{{ page.url }}" style="width: 109px; height: 20px;margin-bottom: 0px;">Tweet</a>
 	{% endif %}
 </div>
+
+<div class="post" style="height:20px;margin-top:60px">
+  {% if site.linkedin_share %}
+    <script src="//platform.linkedin.com/in.js" type="text/javascript">
+    lang: en_US
+  </script>
+  <script type="IN/Share" data-url="{{ site.url }}{{ page.url }}" data-counter="right"></script>
+  {% endif %}
+ </div>
