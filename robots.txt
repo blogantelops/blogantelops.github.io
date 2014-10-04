@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.antelops.com/sitemap.xml 
+Sitemap: http://blogantelops.github.io/sitemap.xml 
