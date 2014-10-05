@@ -4,7 +4,7 @@
   <title><![CDATA[Category: docker | Antelops Blog]]></title>
   <link href="http://blogantelops.github.io/blog/categories/docker/atom.xml" rel="self"/>
   <link href="http://blogantelops.github.io/"/>
-  <updated>2014-10-04T18:11:07+02:00</updated>
+  <updated>2014-10-05T12:53:08+02:00</updated>
   <id>http://blogantelops.github.io/</id>
   <author>
     <name><![CDATA[Antelops]]></name>
@@ -18,9 +18,7 @@
     <link href="http://blogantelops.github.io/blog/2014/10/03/what-is-docker/"/>
     <updated>2014-10-03T12:10:43+02:00</updated>
     <id>http://blogantelops.github.io/blog/2014/10/03/what-is-docker</id>
-    <content type="html"><![CDATA[<h1>What is Docker?</h1>
-
-<p>Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments. As a result, IT can ship faster and run the same app, unchanged, on laptops, data center VMs, and any cloud.</p>
+    <content type="html"><![CDATA[<p>Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments. As a result, IT can ship faster and run the same app, unchanged, on laptops, data center VMs, and any cloud.</p>
 
 <!-- MORE -->
 
