@@ -3,17 +3,9 @@
   
   
   <url>
-    <loc>http://blogantelops.github.io/blog/2014/10/03/what-is-docker/</loc>
+    <loc>http://blogantelops.github.io/blog/2014/09/12/la-revolucion-docker/</loc>
     
-    <lastmod>2014-10-03T12:10:43+02:00</lastmod>
-    
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>http://blogantelops.github.io/blog/2014/10/02/test-post/</loc>
-    
-    <lastmod>2014-10-02T21:25:59+02:00</lastmod>
+    <lastmod>2014-09-12T10:46:12+02:00</lastmod>
     
     <priority>0.8</priority>
   </url>
@@ -21,14 +13,14 @@
   
   <url>
     <loc>http://blogantelops.github.io/blog/archives/</loc>
-    <lastmod>2014-11-03T21:52:57+01:00</lastmod>
+    <lastmod>2014-11-05T10:32:20+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://blogantelops.github.io/</loc>
-    <lastmod>2014-11-03T21:52:57+01:00</lastmod>
+    <lastmod>2014-11-05T10:32:20+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
