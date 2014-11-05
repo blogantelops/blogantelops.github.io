@@ -16,9 +16,9 @@ Si eres el responsable de sistemas o administrador de sistemas y piensas que res
 * 	Tamaño: Las VMs son demasiado grandes.
 * 	Portabilidad: es una ironía que la virtualización haya permitido independizarte de los fabricantes de servidores para atarte a tecnologías que no interoperan fácilmente.
 * 	Foco: las máquinas virtuales están pensadas con las operaciones de TI en mente... no los desarrolladores o en la aplicaciones. No hay versionado de aplicaciones, monitorización específica, configuración, gestión de logs o descubrimiento de servicios.
-* 	Rendimiento: Las VMs no facilitan el escalado horizontal o el desarrollo de aplicaciones multi-capa.
+* 	Rendimiento: Las VMs no facilitan el escalado horizontal o el desarrollo de aplicaciones multicapa.
 
 ![DockerandVMs](/images/blog/VMs-Docker-trans-1000x611.png)
 
-Por todo esto Docker está aquí. **Los contenedores de Docker son pequeños, apenas tienen un impacto en el rendimiento, son completamente portables y están pensados con la aplicación en mente**  (y se pueden ejecutar dentro de máquinas virtuales).  Permiten desplegar las aplicaciones en cualquier lugar, rápida y cómodamente. Por eso está aquí para quedarse. Docker es sólo el resultado de desarrolladores frustrados con operaciones, buscando una mejor manera de hacer las cosas, una herramienta más que ha nacido del movimiento DevOps y que, en último término, pretende volver a hacer hablar operaciones y desarrolladores el mismo idioma, centrarse en lo importante: las aplicaciones.
+Por todo esto Docker está aquí. **Los contenedores de Docker son pequeños, apenas tienen un impacto en el rendimiento, son completamente portables y están pensados con la aplicación en mente** (y se pueden ejecutar dentro de máquinas virtuales). Permiten desplegar las aplicaciones en cualquier lugar, rápida y cómodamente. Por eso está aquí para quedarse. Docker es sólo el resultado de desarrolladores frustrados con operaciones, buscando una mejor manera de hacer las cosas, una herramienta más que ha nacido del movimiento DevOps y que, en último término, pretende volver a hacer hablar operaciones y desarrolladores el mismo idioma, centrarse en lo importante: las aplicaciones.
 
