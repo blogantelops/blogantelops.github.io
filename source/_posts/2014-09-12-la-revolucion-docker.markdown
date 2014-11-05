@@ -11,12 +11,12 @@ Si eres desarrollador o responsable de desarrollo, ya lo conoces. El boca a boca
 ![dockerlogo](/images/blog/docker-transparent-400x310.png)
 <!-- MORE -->
 
-Si eres el responsable de sistemas o administrador de sistemas y piensas que resolvías el problema con máquinas virtuales te has perdido la mitad de la película. Las máquinas virtuales son una poderosísima herramienta que ha permitido exprimir al máximo un hardware que era costoso y que estaba siendo infrautilizado. Sí, ha cambiado considerablemente los CPDs y las operaciones... pero no ha conseguido -en un mundo dónde el cambio constante y ya no se habla de integración continua sino de despliegue continuo- simplificar y acelerar el despliegue de aplicaciones. Por muchos motivos:
+Si eres el responsable de sistemas o administrador de sistemas y piensas que resolvías el problema con máquinas virtuales te has perdido la mitad de la película. Las máquinas virtuales son una poderosísima herramienta que ha permitido exprimir al máximo un hardware que era costoso y que estaba siendo infrautilizado. Sí, las VMs han cambiado considerablemente los CPDs y las operaciones... pero no han conseguido -en un mundo dónde el cambio constante y ya no se habla de integración continua sino de despliegue continuo- simplificar y acelerar el despliegue de aplicaciones. Por muchos motivos:
 
-* 	Tamaño: son demasiado grandes.
+* 	Tamaño: Las VMs son demasiado grandes.
 * 	Portabilidad: es una ironía que la virtualización haya permitido independizarte de los fabricantes de servidores para atarte a tecnologías que no interoperan fácilmente.
 * 	Foco: las máquinas virtuales están pensadas con las operaciones de TI en mente... no los desarrolladores o en la aplicaciones. No hay versionado de aplicaciones, monitorización específica, configuración, gestión de logs o descubrimiento de servicios.
-* 	Rendimiento: no facilitan el escalado horizontal o el desarrollo de aplicaciones multi-capa.
+* 	Rendimiento: Las VMs no facilitan el escalado horizontal o el desarrollo de aplicaciones multi-capa.
 
 ![DockerandVMs](/images/blog/VMs-Docker-trans-1000x611.png)
 
