@@ -1,0 +1,30 @@
+---
+layout: post
+title: "WebScale IT"
+date: 2014-07-09 12:07:56 +0100
+comments: true
+categories: [nutanix, Web-Scale IT]
+---
+### Adaptando los CPDs a la TI con escala Web 
+
+Estamos a unos meses del Gartner Symposium/ITxpo. Cada Octubre, los analistas de TI más seguidos sacan su bola de cristal y hacen predicciones de lo que ocurrirá el próximo año a partir de cientos de entrevistas con CIOs y los grandes proveedores de TI. A la espera de sus predicciones para 2015, es un buen momento para revisar algunas de sus predicciones para 2014 y cómo se están materializando en las estrategias de TI de las empresas.
+
+![webscaleIT](/images/blog/Datacenter-with-Nutanix-500x282.png)
+<!-- MORE -->
+Una de las más llamativas es cómo la industria por fin se ha dado cuenta que una de las claves del éxito de Amazon, Google o Salesforce (por ejemplo) está directamente relacionado a su capacidad de innovación en la manera en que proporcionan sus servicios de TI.
+ 
+Amazon fue el primero en darse cuenta que podía llevar más allá del cliente externo y explotar comercialmente esta innovación y lo ha convertido en un negocio de miles de millones de dólares. Google y Microsoft han validado esta apuesta y hay pocas dudas de que están transformando su negocio alrededor de esta idea. Porque lo que ha permitido florecer a los negocios "core" de estas empresas tecnológicas es la capacidad de crecer y ampliar sus servicios, escalando linealmente en capacidad y rendimiento al mismo tiempo que se contienen los costes.
+ 
+Tiene sentido que Gartner recomiende a CIOs y a las organizaciones de TI alinearse con la metodología, arquitectura de TI y prácticas de estas compañías. A lo que se ha llamado “Web Scale IT”, y nosotros traducimos como TI para servicios de escala Web. Aquellos que piensen que esto es sólo una cuestión que sólo debe preocupar a empresas tecnológicas y que TI no es su negocio, tienen que tener presente que Amazon es esencialmente una empresa de retail minorista (o de logística según se mire) y que el negocio de Google ha sido y todavía es la publicidad (>90% de su beneficio).
+ 
+Hasta ahora, la única manera que tenían las empresas de acceder a esta innovación en TI era a través de la oferta de nube pública de Amazon, Microsoft, Salesforce o Google. Es cierto que hay grandes proveedores tradicionales de TI que han intentado y están intentando ofrecer sus "nubes" (por ejemplo, HP, IBM, Telefónica). Aunque en muchos casos, desgraciadamente no es otra cosa que renombrar los servicios de hosting que ya prestaban. Tienen el hándicap de que su modelo se basa en la infraestructura que venden o en soluciones de infraestructura convergente que no escalan en capacidad, carga o coste, aún en un modelo de infraestructura compartida. Parece más un esfuerzo por retrasar la ola de deserciones, por retener clientes que buscan reducción de costes y mayor escalabilidad y agilidad en los servicios de TI en la nube pública. 
+ 
+Si hay algo claro es que las necesidades de almacenamiento y cómputo de las organizaciones van a más, no a menos (Piensen en Big Data o Internet of Things, IoT…). Los fabricantes tradicionales de infraestructura no están en la misma liga que Google o Amazon. Google es el 4º fabricante de servidores mundial (¡y no vende ninguno!). La salsa secreta no está ahí - Google ensambla HW y componentes genéricos. ¡Lo que le permite escalar y proporcionar niveles de servicio que no pueden sino soñar otros es el software!
+ 
+Nutanix, que ya fue etiquetada por Gartner en junio de 2014 como "Visionary" es la otra opción que tienen las organizaciones para traer las mejores prácticas de los gigantes de la "Nube". De hecho, es una evolución de este software. Creada por ingenieros de Google y Facebook que ayudaron a diseñar el sistema de ficheros compartido que engrasa toda su infraestructura tecnológica. Es una joya tecnológica y que vuelve a traer la magia, la reducción de costes, la agilidad al CPD que trajo a mediados de la década pasada la virtualización, sin penalizar rendimientos o escalabilidad.
+ 
+{% youtube xORDdqOKOSA %}
+
+Nutanix es una solución hiperconvergente que consolida una gran capacidad de procesamiento (servidor) y la capa de almacenamiento de grandes prestaciones en una plataforma única... eliminando la necesidad de una solución de almacenamiento en la red (SAN o NAS). Se ofrece como plataforma desde la que se puede desplegar VMware vSphere, Microsoft Hyper-V o KVM. Combinando ambas tecnologías es posible consolidar el CPD de una pequeña empresa en un espacio similar al de una maleta de viaje y el de una gran empresa en un único rack...llegando a reducir en 5x el TCO, reducir en 10x su OPEX o reducir 15x el consumo energético.
+ 
+Si se quedara aquí…
