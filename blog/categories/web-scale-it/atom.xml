@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Antelops Blog]]></title>
-  <link href="http://blogantelops.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: web-scale it | Antelops Blog]]></title>
+  <link href="http://blogantelops.github.io/blog/categories/web-scale-it/atom.xml" rel="self"/>
   <link href="http://blogantelops.github.io/"/>
   <updated>2014-11-06T11:24:32+01:00</updated>
   <id>http://blogantelops.github.io/</id>
@@ -14,55 +14,6 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Red Hat y Docker]]></title>
-    <link href="http://blogantelops.github.io/blog/2014/10/18/red-hat-y-docker/"/>
-    <updated>2014-10-18T11:56:12+02:00</updated>
-    <id>http://blogantelops.github.io/blog/2014/10/18/red-hat-y-docker</id>
-    <content type="html"><![CDATA[<h3>Red Hat pone a Docker en el núcleo de su proyecto &ldquo;atómico&rdquo;</h3>
-
-<p>Docker está transformando el modelo de despliegue de aplicaciones y su adopción, y esto no sólo se nota en su adopción fulminante en empresas, sino también en los fabricantes. Uno de los fabricantes liderando su adopción es Red Hat, que ha asumido esta revolución hasta el punto de rehacer RHEL con la tecnología de virtualización de aplicaciones Docker en mente.</p>
-
-<!-- MORE -->
-
-
-<p>En el corto plazo, esto se ha traducido en la creación de una variante de RHEL llamada Red Hat Enterprise Atomic Host, que es un sistema operativo ligero diseñado para ejecutar contenedores con formato Docker.</p>
-
-<p>En un reciente Red Hat Forum, Mark Coggin, Director de Marketing de Producto, explica Red Hat Enterprise Linux Atomic Host y su rol en nubes híbridas:</p>
-
-<div class="embed-video-container"><iframe src="//www.youtube.com/embed/64SigEZyMHw" allowfullscreen></iframe></div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[La Revolución Docker]]></title>
-    <link href="http://blogantelops.github.io/blog/2014/09/12/la-revolucion-docker/"/>
-    <updated>2014-09-12T10:46:12+02:00</updated>
-    <id>http://blogantelops.github.io/blog/2014/09/12/la-revolucion-docker</id>
-    <content type="html"><![CDATA[<p>Si eres desarrollador o responsable de desarrollo, ya lo conoces. El boca a boca ha sido imparable para <strong>este proyecto de software libre que está transformado como se despliegan las aplicaciones</strong>. Docker te permite ejecutar tus aplicaciones en cualquier lugar, desde tu portátil hasta la instancia EC2 de Amazon más potente y cualquier cosa entre medio, sin atarte a un lenguaje de programación, a un &ldquo;framework&rdquo; o sistema de instalación que utilice un S.O. Los contenedores Docker son agnósticos respecto al hardware y la plataforma.</p>
-
-<p><img src="http://blogantelops.github.io/images/blog/docker-transparent-400x310.png" alt="dockerlogo" /></p>
-
-<!-- MORE -->
-
-
-<p>Si eres el responsable de sistemas o administrador de sistemas y piensas que resolvías el problema con máquinas virtuales te has perdido la mitad de la película. Las máquinas virtuales son una poderosísima herramienta que ha permitido exprimir al máximo un hardware que era costoso y que estaba siendo infrautilizado. Sí, las VMs han cambiado considerablemente los CPDs y las operaciones&hellip; pero no han conseguido -en un mundo dónde el cambio constante y ya no se habla de integración continua sino de despliegue continuo- simplificar y acelerar el despliegue de aplicaciones. Por muchos motivos:</p>
-
-<ul>
-<li>Tamaño: Las VMs son demasiado grandes.</li>
-<li>Portabilidad: es una ironía que la virtualización haya permitido independizarte de los fabricantes de servidores para atarte a tecnologías que no interoperan fácilmente.</li>
-<li>Foco: las máquinas virtuales están pensadas con las operaciones de TI en mente&hellip; no los desarrolladores o en la aplicaciones. No hay versionado de aplicaciones, monitorización específica, configuración, gestión de logs o descubrimiento de servicios.</li>
-<li>Rendimiento: Las VMs no facilitan el escalado horizontal o el desarrollo de aplicaciones multicapa.</li>
-</ul>
-
-
-<p><img src="http://blogantelops.github.io/images/blog/VMs-Docker-trans-1000x611.png" alt="DockerandVMs" /></p>
-
-<p>Por todo esto Docker está aquí. <strong>Los contenedores de Docker son pequeños, apenas tienen un impacto en el rendimiento, son completamente portables y están pensados con la aplicación en mente</strong> (y se pueden ejecutar dentro de máquinas virtuales). Permiten desplegar las aplicaciones en cualquier lugar, rápida y cómodamente. Por eso está aquí para quedarse. Docker es sólo el resultado de desarrolladores frustrados con operaciones, buscando una mejor manera de hacer las cosas, una herramienta más que ha nacido del movimiento DevOps y que, en último término, pretende volver a hacer hablar operaciones y desarrolladores el mismo idioma, centrarse en lo importante: las aplicaciones.</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[WebScale IT]]></title>
     <link href="http://blogantelops.github.io/blog/2014/07/09/webscale-it/"/>
     <updated>2014-07-09T13:07:56+02:00</updated>
@@ -71,7 +22,7 @@
 
 <p>Estamos a unos meses del Gartner Symposium/ITxpo. Cada Octubre, los analistas de TI más seguidos sacan su bola de cristal y hacen predicciones de lo que ocurrirá el próximo año a partir de cientos de entrevistas con CIOs y los grandes proveedores de TI. A la espera de sus predicciones para 2015, es un buen momento para revisar algunas de sus predicciones para 2014 y cómo se están materializando en las estrategias de TI de las empresas.</p>
 
-<p><img src="http://blogantelops.github.io/images/blog/Datacenter-with-Nutanix-500x282.png" alt="webscaleIT" /></p>
+<p><img src="/images/blog/Datacenter-with-Nutanix-500x282.png" alt="webscaleIT" /></p>
 
 <!-- MORE -->
 
@@ -88,8 +39,7 @@
 
 <p>Nutanix, que ya fue etiquetada por Gartner en junio de 2014 como &ldquo;Visionary&rdquo; es la otra opción que tienen las organizaciones para traer las mejores prácticas de los gigantes de la &ldquo;Nube&rdquo;. De hecho, es una evolución de este software. Creada por ingenieros de Google y Facebook que ayudaron a diseñar el sistema de ficheros compartido que engrasa toda su infraestructura tecnológica. Es una joya tecnológica y que vuelve a traer la magia, la reducción de costes, la agilidad al CPD que trajo a mediados de la década pasada la virtualización, sin penalizar rendimientos o escalabilidad.</p>
 
-<div class="embed-video-container"><iframe src="//www.youtube.com/embed/xORDdqOKOSA" allowfullscreen></iframe></div>
-
+<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/xORDdqOKOSA" allowfullscreen></iframe></div></p>
 
 <p>Nutanix es una solución hiperconvergente que consolida una gran capacidad de procesamiento (servidor) y la capa de almacenamiento de grandes prestaciones en una plataforma única&hellip; eliminando la necesidad de una solución de almacenamiento en la red (SAN o NAS). Se ofrece como plataforma desde la que se puede desplegar VMware vSphere, Microsoft Hyper-V o KVM. Combinando ambas tecnologías es posible consolidar el CPD de una pequeña empresa en un espacio similar al de una maleta de viaje y el de una gran empresa en un único rack&hellip;llegando a reducir en 5x el TCO, reducir en 10x su OPEX o reducir 15x el consumo energético.</p>
 

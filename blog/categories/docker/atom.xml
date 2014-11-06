@@ -4,7 +4,7 @@
   <title><![CDATA[Category: docker | Antelops Blog]]></title>
   <link href="http://blogantelops.github.io/blog/categories/docker/atom.xml" rel="self"/>
   <link href="http://blogantelops.github.io/"/>
-  <updated>2014-11-05T10:55:35+01:00</updated>
+  <updated>2014-11-06T11:24:32+01:00</updated>
   <id>http://blogantelops.github.io/</id>
   <author>
     <name><![CDATA[Antelops]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Red Hat y Docker]]></title>
+    <link href="http://blogantelops.github.io/blog/2014/10/18/red-hat-y-docker/"/>
+    <updated>2014-10-18T11:56:12+02:00</updated>
+    <id>http://blogantelops.github.io/blog/2014/10/18/red-hat-y-docker</id>
+    <content type="html"><![CDATA[<h3>Red Hat pone a Docker en el núcleo de su proyecto &ldquo;atómico&rdquo;</h3>
+
+<p>Docker está transformando el modelo de despliegue de aplicaciones y su adopción, y esto no sólo se nota en su adopción fulminante en empresas, sino también en los fabricantes. Uno de los fabricantes liderando su adopción es Red Hat, que ha asumido esta revolución hasta el punto de rehacer RHEL con la tecnología de virtualización de aplicaciones Docker en mente.</p>
+
+<!-- MORE -->
+
+
+<p>En el corto plazo, esto se ha traducido en la creación de una variante de RHEL llamada Red Hat Enterprise Atomic Host, que es un sistema operativo ligero diseñado para ejecutar contenedores con formato Docker.</p>
+
+<p>En un reciente Red Hat Forum, Mark Coggin, Director de Marketing de Producto, explica Red Hat Enterprise Linux Atomic Host y su rol en nubes híbridas:
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/64SigEZyMHw" allowfullscreen></iframe></div></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[La Revolución Docker]]></title>
