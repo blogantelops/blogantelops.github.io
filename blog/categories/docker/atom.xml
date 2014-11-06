@@ -4,7 +4,7 @@
   <title><![CDATA[Category: docker | Antelops Blog]]></title>
   <link href="http://blogantelops.github.io/blog/categories/docker/atom.xml" rel="self"/>
   <link href="http://blogantelops.github.io/"/>
-  <updated>2014-11-06T11:24:32+01:00</updated>
+  <updated>2014-11-06T11:29:58+01:00</updated>
   <id>http://blogantelops.github.io/</id>
   <author>
     <name><![CDATA[Antelops]]></name>
@@ -21,6 +21,8 @@
     <content type="html"><![CDATA[<h3>Red Hat pone a Docker en el núcleo de su proyecto &ldquo;atómico&rdquo;</h3>
 
 <p>Docker está transformando el modelo de despliegue de aplicaciones y su adopción, y esto no sólo se nota en su adopción fulminante en empresas, sino también en los fabricantes. Uno de los fabricantes liderando su adopción es Red Hat, que ha asumido esta revolución hasta el punto de rehacer RHEL con la tecnología de virtualización de aplicaciones Docker en mente.</p>
+
+<p><img src="/images/blog/Project_Atomic-400x400.png" alt="ProjectAtomic" /></p>
 
 <!-- MORE -->
 
