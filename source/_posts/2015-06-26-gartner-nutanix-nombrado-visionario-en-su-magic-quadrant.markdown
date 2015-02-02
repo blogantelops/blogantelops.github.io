@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gartner - Nutanix nombrado Visionario en su Magic Quadrant"
-date: 2015-02-02 19:00:32 +0100
+date: 2014-06-29 9:00:32 +0100
 comments: true
 categories: 
 ---
