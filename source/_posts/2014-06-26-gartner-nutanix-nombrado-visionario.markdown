@@ -23,9 +23,9 @@ La infraestructura "web-scale" es una aproximación nueva al diseño, despliegue
 Más información:
 
 Cuadrante Mágico de Gartner de Sistemas Integrados:
-[http://go.nutanix.com/GartnerMQ2014.html]()
+[http://go.nutanix.com/GartnerMQ2014.html](http://go.nutanix.com/GartnerMQ2014.html)
 
 La visión del web-scale IT de Nutanix:
-[http://www.nutanix.com/blog/2014/06/18/the-web-scale-vision]()
+[http://www.nutanix.com/blog/2014/06/18/the-web-scale-vision](http://www.nutanix.com/blog/2014/06/18/the-web-scale-vision)
 
 
