@@ -3,17 +3,9 @@
   
   
   <url>
-    <loc>http://blogantelops.github.io/blog/2015/02/02/idc-nutanix-nombrado-market-leader/</loc>
+    <loc>http://blogantelops.github.io/blog/2015/01/24/idc-nutanix-nombrado-market-leader/</loc>
     
-    <lastmod>2015-02-02T19:00:57+01:00</lastmod>
-    
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>http://blogantelops.github.io/blog/2015/02/02/gartner-nutanix-nombrado-visionario-en-su-magic-quadrant/</loc>
-    
-    <lastmod>2015-02-02T19:00:32+01:00</lastmod>
+    <lastmod>2015-01-24T12:10:05+01:00</lastmod>
     
     <priority>0.8</priority>
   </url>
@@ -42,17 +34,25 @@
     <priority>0.8</priority>
   </url>
   
+  <url>
+    <loc>http://blogantelops.github.io/blog/2014/06/29/gartner-nutanix-nombrado-visionario/</loc>
+    
+    <lastmod>2014-06-29T10:00:32+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
   
   <url>
     <loc>http://blogantelops.github.io/blog/archives/</loc>
-    <lastmod>2015-02-02T19:01:03+01:00</lastmod>
+    <lastmod>2015-02-02T19:40:16+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://blogantelops.github.io/</loc>
-    <lastmod>2015-02-02T19:01:03+01:00</lastmod>
+    <lastmod>2015-02-02T19:40:16+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

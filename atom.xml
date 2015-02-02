@@ -4,7 +4,7 @@
   <title><![CDATA[Antelops Blog]]></title>
   <link href="http://blogantelops.github.io/atom.xml" rel="self"/>
   <link href="http://blogantelops.github.io/"/>
-  <updated>2015-02-02T19:01:03+01:00</updated>
+  <updated>2015-02-02T19:40:16+01:00</updated>
   <id>http://blogantelops.github.io/</id>
   <author>
     <name><![CDATA[Antelops]]></name>
@@ -15,18 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[IDC - Nutanix nombrado Market Leader]]></title>
-    <link href="http://blogantelops.github.io/blog/2015/02/02/idc-nutanix-nombrado-market-leader/"/>
-    <updated>2015-02-02T19:00:57+01:00</updated>
-    <id>http://blogantelops.github.io/blog/2015/02/02/idc-nutanix-nombrado-market-leader</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Gartner - Nutanix nombrado Visionario en su Magic Quadrant]]></title>
-    <link href="http://blogantelops.github.io/blog/2015/02/02/gartner-nutanix-nombrado-visionario-en-su-magic-quadrant/"/>
-    <updated>2015-02-02T19:00:32+01:00</updated>
-    <id>http://blogantelops.github.io/blog/2015/02/02/gartner-nutanix-nombrado-visionario-en-su-magic-quadrant</id>
+    <link href="http://blogantelops.github.io/blog/2015/01/24/idc-nutanix-nombrado-market-leader/"/>
+    <updated>2015-01-24T12:10:05+01:00</updated>
+    <id>http://blogantelops.github.io/blog/2015/01/24/idc-nutanix-nombrado-market-leader</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
@@ -114,6 +105,15 @@
 <p>Nutanix es una solución hiperconvergente que consolida una gran capacidad de procesamiento (servidor) y la capa de almacenamiento de grandes prestaciones en una plataforma única&hellip; eliminando la necesidad de una solución de almacenamiento en la red (SAN o NAS). Se ofrece como plataforma desde la que se puede desplegar VMware vSphere, Microsoft Hyper-V o KVM. Combinando ambas tecnologías es posible consolidar el CPD de una pequeña empresa en un espacio similar al de una maleta de viaje y el de una gran empresa en un único rack&hellip;llegando a reducir en 5x el TCO, reducir en 10x su OPEX o reducir 15x el consumo energético.</p>
 
 <p>Si se quedara aquí…</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Gartner - Nutanix nombrado Visionario]]></title>
+    <link href="http://blogantelops.github.io/blog/2014/06/29/gartner-nutanix-nombrado-visionario/"/>
+    <updated>2014-06-29T10:00:32+02:00</updated>
+    <id>http://blogantelops.github.io/blog/2014/06/29/gartner-nutanix-nombrado-visionario</id>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

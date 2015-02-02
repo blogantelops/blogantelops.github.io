@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: gartner | Antelops Blog]]></title>
+  <link href="http://blogantelops.github.io/blog/categories/gartner/atom.xml" rel="self"/>
+  <link href="http://blogantelops.github.io/"/>
+  <updated>2015-02-02T19:40:16+01:00</updated>
+  <id>http://blogantelops.github.io/</id>
+  <author>
+    <name><![CDATA[Antelops]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Gartner - Nutanix nombrado Visionario]]></title>
+    <link href="http://blogantelops.github.io/blog/2014/06/29/gartner-nutanix-nombrado-visionario/"/>
+    <updated>2014-06-29T10:00:32+02:00</updated>
+    <id>http://blogantelops.github.io/blog/2014/06/29/gartner-nutanix-nombrado-visionario</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
