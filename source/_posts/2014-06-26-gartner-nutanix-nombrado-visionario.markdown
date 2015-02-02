@@ -28,4 +28,3 @@ Cuadrante Mágico de Gartner de Sistemas Integrados:
 La visión del web-scale IT de Nutanix:
 [http://www.nutanix.com/blog/2014/06/18/the-web-scale-vision](http://www.nutanix.com/blog/2014/06/18/the-web-scale-vision)
 
-
