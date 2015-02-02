@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gartner - Nutanix nombrado Visionario"
-date: 2014-06-26 9:05:32 +0100
+date: 2014-06-29 9:05:32 +0100
 comments: true
 categories: [Nutanix, Gartner] 
 ---
