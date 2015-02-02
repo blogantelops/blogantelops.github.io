@@ -4,7 +4,7 @@
   <title><![CDATA[Category: gartner | Antelops Blog]]></title>
   <link href="http://blogantelops.github.io/blog/categories/gartner/atom.xml" rel="self"/>
   <link href="http://blogantelops.github.io/"/>
-  <updated>2015-02-02T19:40:16+01:00</updated>
+  <updated>2015-02-02T22:26:06+01:00</updated>
   <id>http://blogantelops.github.io/</id>
   <author>
     <name><![CDATA[Antelops]]></name>
@@ -18,7 +18,28 @@
     <link href="http://blogantelops.github.io/blog/2014/06/29/gartner-nutanix-nombrado-visionario/"/>
     <updated>2014-06-29T10:00:32+02:00</updated>
     <id>http://blogantelops.github.io/blog/2014/06/29/gartner-nutanix-nombrado-visionario</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Nutanix, el fabricante líder en soluciones de infraestructura de nueva generación, anunció el posicionamiento por parte de Gartner en la parte más alta del cuadrante de Visionarios del primer Cuadrante Mágico de Sistemas Integrados. Para Nutanix, se demuestra así su compromiso y éxito en llevar soluciones de infraestructura &ldquo;web-scale&rdquo; a todo tipo de empresas y el crecimiento de la empresa en los dos últimos años.</p>
+
+<!-- MORE -->
+
+
+<p>Según Gartner, &ldquo;basándose en las ventas de 2013, se estima que el mercado para sistemas integrados superará los 6 billones de dólares en 2014, con un crecimiento anual del 50%&rdquo;. &ldquo;El mercado de sistemas integrados se basa en la innovación y atrae a numerosas startups que ven la posibilidad de penetrar en un mercado dominado por los fabricantes tradicionales&rdquo;, añade Gartner como parte del informe, así como que &ldquo;la mayoría de los sistemas integrados son empaquetamientos de servidores, almacenamiento y componentes de red que también se venden por separado. Pero asistimos a la emergencia de computadoras realmente basadas en un &#8220;fabric&rdquo; que realmente fusionan los tres elementos de manera más integrada&#8221;.</p>
+
+<p><img src="/images/blog/nutanix-wave.jpg" alt="nutanixwave" /></p>
+
+<p>Nutanix se fundó en 2009 con una visión de cómo evolucionarán los centros de datos empresariales en la era cloud. Nutanix simplifica el diseño, gestión y crecimiento de los centros de datos empresariales con un sistema integrado basado en software al 100% y optimizado para cualquier tipo de carga virtual. Además, el sistema Nutanix Virtual Computing Platform es agnóstico en cuanto al hipervisor, permitiendo a los responsables de IT seleccionar la tecnología de virtualización adecuada a su entorno, sea VMware vSphere™, Microsoft Hyper-V™, Apache KVM o una combinación de ellas.</p>
+
+<p>Nutanix propone una plataforma que aúna los principios de consumos limitados, políticas asociadas a la aplicación, diseño basado en el usuario, memoria flash y cloud computing híbrido.</p>
+
+<p>La infraestructura &ldquo;web-scale&rdquo; es una aproximación nueva al diseño, despliegue y gestión de centros de datos más simplificada y más eficiente que los centros de datos construidos con productos tradicionales. Las arquitecturas y tecnologías web-scale fueron usadas por primera vez por grandes empresas cloud y web como Google, Facebook, Microsoft y Amazon y están siendo adoptadas ahora por empresas de todo tipo y tamaño.</p>
+
+<p>Más información:</p>
+
+<p>Cuadrante Mágico de Gartner de Sistemas Integrados:
+<a href="">http://go.nutanix.com/GartnerMQ2014.html</a></p>
+
+<p>La visión del web-scale IT de Nutanix:
+<a href="">http://www.nutanix.com/blog/2014/06/18/the-web-scale-vision</a></p>
 ]]></content>
   </entry>
   
