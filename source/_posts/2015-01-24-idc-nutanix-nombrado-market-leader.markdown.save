@@ -7,11 +7,11 @@ categories: [Nutanix, IDC]
 ---
 # Nutanix líder global en el mercado de la hiperconvergencia, según IDC 
 
-![nutanixvelocity](/images/blog/nutanix-velocity.jpg)
+![nutanixwave](/images/blog/nutanix-velocity.jpg)
 
 <!-- MORE -->
 
-**IDC** ha comenzado la cobertura del mercado de plataformas hiperconvergente con un informe que analiza los resultados de 2014. EL informe reconoce el papel prominente que las soluciones hiperconvergentes están desempeñando en los CPDs y posiciona a **Nutanix** como actor clave en el desarrollo y éxito de este segmento, con un 52% de los ingresos totales durante el primer semestre de 2014.
+**IDC** ha comenzado la cobertura del mercado de plataformas hiperconvergente con un informe que analiza los resultados de 2014. EL informe reconoce el papel prominente que las soluciones hiperconvergentes están desempeñando en los CPDs y posiciona a **Nutanix** como actor clave en el desarrollo y éxito de este segmento con un 52% de los ingresos totales durante el primer semestre de 2014.
 
 Las plataformas hiperconvergentes integran los recursos de servidor y almacenamiento para reducir costes, aumentar la flexibilidad y simplificar su administración.
 De acuerdo con *Eric Sheppard*, director de investigación de IDC, Nutanix ha jugado un papel fundamental en identificar y capitalizar la necesidad de soluciones hiperconvergentes. Y está sabiendo aprovechar la ventaja de ser uno de los pioneros, de su éxito entre los clientes para construir alianzas con fabricantes y ampliar las capacidades de sus soluciones. Estos movientos parecen garantizar su posición de liderazago y son la clave para la aceleración de su expasión geográfica y su cuota de mercado.
