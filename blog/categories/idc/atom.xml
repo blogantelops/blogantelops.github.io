@@ -4,7 +4,7 @@
   <title><![CDATA[Category: idc | Antelops Blog]]></title>
   <link href="http://blogantelops.github.io/blog/categories/idc/atom.xml" rel="self"/>
   <link href="http://blogantelops.github.io/"/>
-  <updated>2015-02-02T23:12:23+01:00</updated>
+  <updated>2015-02-03T10:32:47+01:00</updated>
   <id>http://blogantelops.github.io/</id>
   <author>
     <name><![CDATA[Antelops]]></name>
@@ -15,10 +15,49 @@
   
   <entry>
     <title type="html"><![CDATA[IDC - Nutanix nombrado Market Leader]]></title>
+    <link href="http://blogantelops.github.io/blog/2015/01/24/idc-nutanix-nombrado-market-leader.markdown/"/>
+    <updated>2015-01-24T12:10:05+01:00</updated>
+    <id>http://blogantelops.github.io/blog/2015/01/24/idc-nutanix-nombrado-market-leader.markdown</id>
+    <content type="html"><![CDATA[<h1>Nutanix líder global en el mercado de la hiperconvergencia, según IDC</h1>
+
+<p><img src="/images/blog/nutanix-velocity.jpg" alt="nutanixwave" /></p>
+
+<!-- MORE -->
+
+
+<p><strong>IDC</strong> ha comenzado la cobertura del mercado de plataformas hiperconvergente con un informe que analiza los resultados de 2014. EL informe reconoce el papel prominente que las soluciones hiperconvergentes están desempeñando en los CPDs y posiciona a <strong>Nutanix</strong> como actor clave en el desarrollo y éxito de este segmento con un 52% de los ingresos totales durante el primer semestre de 2014.</p>
+
+<p>Las plataformas hiperconvergentes integran los recursos de servidor y almacenamiento para reducir costes, aumentar la flexibilidad y simplificar su administración.
+De acuerdo con <em>Eric Sheppard</em>, director de investigación de IDC, Nutanix ha jugado un papel fundamental en identificar y capitalizar la necesidad de soluciones hiperconvergentes. Y está sabiendo aprovechar la ventaja de ser uno de los pioneros, de su éxito entre los clientes para construir alianzas con fabricantes y ampliar las capacidades de sus soluciones. Estos movientos parecen garantizar su posición de liderazago y son la clave para la aceleración de su expasión geográfica y su cuota de mercado.</p>
+
+<p>Aunque las plaftormas hiperconvergentes se centraban en cargas de trabajo específicas, como <em>entornos virtualizados</em> (VMware vSphere, Microsoft Hyper-V, Apache KVM) y <em>escritorios de trabajo virtuales</em> (VDI), Nutanix ha liderado la expansión de los casos de uso a un conjunto más amplia de cargas de trabajo. De acuerdo con el informe de IDC, en los útimos 18 meses, los casos de uso se han diversificado a cargas de trabajo virtualizados comunes en los entornos empresariales como SAP, Oracle, Microsoft Exchange, SQL Server, SharePoint, Splunk y aplicaciones de comunicaciones unificadas.</p>
+
+<p>El informe, que sigue una metodología rigurosa de puntuación basada en criterios cualitativos y cuantitativos en su comparación de empresas y tecnologías, puede ser descargado aquí:
+<a href="http://www.nutanix.com/IDC2014">http://www.nutanix.com/IDC2014</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[IDC - Nutanix nombrado Market Leader]]></title>
     <link href="http://blogantelops.github.io/blog/2015/01/24/idc-nutanix-nombrado-market-leader/"/>
     <updated>2015-01-24T12:10:05+01:00</updated>
     <id>http://blogantelops.github.io/blog/2015/01/24/idc-nutanix-nombrado-market-leader</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>Nutanix líder global en el mercado de la hiperconvergencia, según IDC</h1>
+
+<p><img src="/images/blog/nutanix-velocity.jpg" alt="nutanixvelocity" /></p>
+
+<!-- MORE -->
+
+
+<p><strong>IDC</strong> ha comenzado la cobertura del mercado de plataformas hiperconvergente con un informe que analiza los resultados de 2014. EL informe reconoce el papel prominente que las soluciones hiperconvergentes están desempeñando en los CPDs y posiciona a <strong>Nutanix</strong> como actor clave en el desarrollo y éxito de este segmento, con un 52% de los ingresos totales durante el primer semestre de 2014.</p>
+
+<p>Las plataformas hiperconvergentes integran los recursos de servidor y almacenamiento para reducir costes, aumentar la flexibilidad y simplificar su administración.
+De acuerdo con <em>Eric Sheppard</em>, director de investigación de IDC, Nutanix ha jugado un papel fundamental en identificar y capitalizar la necesidad de soluciones hiperconvergentes. Y está sabiendo aprovechar la ventaja de ser uno de los pioneros, de su éxito entre los clientes para construir alianzas con fabricantes y ampliar las capacidades de sus soluciones. Estos movientos parecen garantizar su posición de liderazago y son la clave para la aceleración de su expasión geográfica y su cuota de mercado.</p>
+
+<p>Aunque las plaftormas hiperconvergentes se centraban en cargas de trabajo específicas, como <em>entornos virtualizados</em> (VMware vSphere, Microsoft Hyper-V, Apache KVM) y <em>escritorios de trabajo virtuales</em> (VDI), Nutanix ha liderado la expansión de los casos de uso a un conjunto más amplia de cargas de trabajo. De acuerdo con el informe de IDC, en los útimos 18 meses, los casos de uso se han diversificado a cargas de trabajo virtualizados comunes en los entornos empresariales como SAP, Oracle, Microsoft Exchange, SQL Server, SharePoint, Splunk y aplicaciones de comunicaciones unificadas.</p>
+
+<p>El informe, que sigue una metodología rigurosa de puntuación basada en criterios cualitativos y cuantitativos en su comparación de empresas y tecnologías, puede ser descargado aquí:
+<a href="http://www.nutanix.com/IDC2014">http://www.nutanix.com/IDC2014</a></p>
 ]]></content>
   </entry>
   

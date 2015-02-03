@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://blogantelops.github.io/blog/2015/01/24/idc-nutanix-nombrado-market-leader.markdown/</loc>
+    
+    <lastmod>2015-01-24T12:10:05+01:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://blogantelops.github.io/blog/2015/01/24/idc-nutanix-nombrado-market-leader/</loc>
     
     <lastmod>2015-01-24T12:10:05+01:00</lastmod>
@@ -45,14 +53,14 @@
   
   <url>
     <loc>http://blogantelops.github.io/blog/archives/</loc>
-    <lastmod>2015-02-02T23:12:23+01:00</lastmod>
+    <lastmod>2015-02-03T10:32:47+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://blogantelops.github.io/</loc>
-    <lastmod>2015-02-02T23:12:23+01:00</lastmod>
+    <lastmod>2015-02-03T10:32:47+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
